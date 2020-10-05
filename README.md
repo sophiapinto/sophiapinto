@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 -->
 
 
+### Hi!
+
+My name is Sophia Pinto.
+
+- 🎓 Student of Science and Technology at UFMA.
+- ⚡ Technician in electronics by IFMA.
+- 👩‍💻 Software developer
+- 👩‍🔬 Researcher
+- "Believe in the beauty of your dreams."
+
 ### Olá!
 
 Meu nome é Sophia Pinto.
