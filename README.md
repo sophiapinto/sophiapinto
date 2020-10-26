@@ -30,7 +30,3 @@ My name is Sophia Pinto.
 - 👩‍🔬 Researcher
 - "Believe in the beauty of your dreams."
 
-
-<p align="center"> 
- <a><img src="https://github.com/sophiapinto/SarahSophiaPinto/blob/master/capa.jpeg"/></a>
-</p> 
