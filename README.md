@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/sarah-sophia-pinto-9031081a9)
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white/)](https://github.com/sophiapinto)
+[![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yllionpontocom?igshid=gek3ee8mi8qb)
 
 ### Hi!
 
@@ -27,19 +30,6 @@ My name is Sophia Pinto.
 - 👩‍🔬 Researcher
 - "Believe in the beauty of your dreams."
 
-### Olá!
-
-Meu nome é Sophia Pinto.
-
-- 🎓 Estudante de Ciência e tecnologia na UFMA.
-- ⚡ Técnica em eletrônica pelo IFMA.
-- 👩‍💻 Desenvolvedora de software
-- 👩‍🔬 Pesquisadora 
-- "Acredite na beleza dos seus sonhos."
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/sarah-sophia-pinto-9031081a9)
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white/)](https://github.com/sophiapinto)
-[![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yllionpontocom?igshid=gek3ee8mi8qb)
 
 <p align="center"> 
  <a><img src="https://github.com/sophiapinto/SarahSophiaPinto/blob/master/capa.jpeg"/></a>
