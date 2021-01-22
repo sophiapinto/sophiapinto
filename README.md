@@ -20,13 +20,14 @@ My name is Sophia Pinto!
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" alt="React-Native" width="60" height="40" /></code>
 
+## Social networks
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/sarah-sophia-pinto-9031081a9)
+[![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yllionpontocom?igshid=gek3ee8mi8qb)
+
 ## Contact me
 
 <a href="mailto:sarahsophiapinto@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/sarah-sophia-pinto-9031081a9)
-[![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yllionpontocom?igshid=gek3ee8mi8qb)
-
-## "Believe in the beauty of your dreams."
+### "Believe in the beauty of your dreams."
