@@ -31,9 +31,7 @@ Designing intelligent, inclusive, and scalable tech solutions that connect engin
 
 ## Contact me
 
-<a href="mailto:sarahsophiapinto@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=mail.ru&logoColor=white)](mailto:sarahsophiapinto@gmail.com)
 
 [![Website](https://img.shields.io/badge/-Website-ff4088?style=flat&logo=internet-explorer&logoColor=white)](http://www.yllion.com.br)
 
